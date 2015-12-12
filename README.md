@@ -1,4 +1,4 @@
-#**characteristics of semiconductor Devices:**
+#**Characteristics Of Semiconductor Devices:**
 
 # BC107PLOThFEvsIC
 BC107-characteristic  hFE vs IC
