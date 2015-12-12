@@ -2,7 +2,7 @@
 
 # BC107PLOThFEvsIC
 BC107-characteristic  hFE vs IC
-!['BC107-characteristic  hFE vs IC'](https://raw.githubusercontent.com/stackprogramer/BC107PLOThFEvsIC/master/images/BC107.png"BC107")
+!['BC107-characteristic  hFE vs IC'](https://raw.githubusercontent.com/stackprogramer/BC107PLOThFEvsIC/master/images/BC107.png..."Bc107")
 !['BC107-characteristic  hFE vs IC'](https://raw.githubusercontent.com/stackprogramer/BC107PLOThFEvsIC/master/images/BC107-2.png"BC107")
 
 
