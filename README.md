@@ -1,6 +1,6 @@
 #**characteristics of semiconductor Devices:**
 
-# #BC107PLOThFEvsIC
+# BC107PLOThFEvsIC
 BC107-characteristic  hFE vs IC
 !['BC107-characteristic  hFE vs IC'](https://raw.githubusercontent.com/stackprogramer/BC107PLOThFEvsIC/master/images/BC107.png)
 BC107-characteristic  hFE vs IC in matlab 
