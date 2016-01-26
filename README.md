@@ -1,4 +1,4 @@
-#**Characteristics Of Semiconductor Devices:**
+#**Matlab Source:**
 
 # BC107PLOThFEvsIC
 BC107-characteristic  hFE vs IC
